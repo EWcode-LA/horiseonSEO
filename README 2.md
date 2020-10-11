@@ -57,7 +57,7 @@ This homework is graded based on the following criteria:
 
 * Satisfies all of the above acceptance criteria plus the following code improvements:
 
-  * Application's links all function correctly.
+  * Application's links all function correctly. 
 
   * Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
 
